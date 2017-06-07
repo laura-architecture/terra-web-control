@@ -1,0 +1,23 @@
+{
+  "name": "terra-web-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laura-architecture/terra-web-control.git"
+  },
+  "author": "Ruan Martinelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laura-architecture/terra-web-control/issues"
+  },
+  "homepage": "https://github.com/laura-architecture/terra-web-control#readme",
+  "dependencies": {
+    "serve": "^5.2.1"
+  }
+}
