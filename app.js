@@ -12,7 +12,7 @@ function MainController($scope, $http, $timeout) {
   $scope.luminosity_charts = {}
   $scope.networks = []
 
-  $http.get('/api/network').then(res => res.data).then(networks => {
+  $http.get('http://localhost:9191/api/network').then(res => res.data).then(networks => {
     $scope.networks = networks
     createCharts()
     initDelayArrays()
