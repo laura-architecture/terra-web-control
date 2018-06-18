@@ -1,0 +1,15 @@
+Copyright 2018 LAURA Project Team
+The "Work" (codes, applications, systems, software artefacts) or any file available in this repository was created by:
+Ruan Rocha Martinelli - martinelliruan@gmail.com
+
+Supervised by:
+Sergio Teixeira - sergio@multicast.com.br
+José Gonçalves Pereira Filho - zegonc@gmail.com
+
+with contributions by:
+Adriano Francisco Branco - Afbranco@gmail.com
+
+The Apache 2.0 license used which is available in this repository was increased by the following item 'e' in section '4. Redistribution':
+
+e. You must give any other recipients of the Work or Derivative Works a copy of the Work or Derivative Works produced by You, leaving
+available in any free and easy access address or web-based hosting service in the Internet as the GitHub.
