@@ -57,8 +57,6 @@ function MainController($scope, $http, $timeout) {
 
     current_id = message.id_mote
 
-    console.log('New message from network ' + network.id, message)
-
     const temp = message.temperature || message.raw_temperature
     const lumi = message.luminosity || message.raw_luminosity
     const time = moment().format('hh:mm:ss')
